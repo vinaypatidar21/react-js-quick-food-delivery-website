@@ -17,11 +17,11 @@ class Footer extends Component {
                             </div>
                             <div className="footer-list-div">
                                 <ul>
-                                    <li><a href="#">Karachi</a></li>
-                                    <li><a href="#">Lahore</a></li>
-                                    <li><a href="#">Islamabad</a></li>
-                                    <li><a href="#">Rawalpindi</a></li>
-                                    <li><a href="#">Multan</a></li>
+                                    <li><a href="#">Vijay Nagar</a></li>
+                                    <li><a href="#">Rajendra Nagar</a></li>
+                                    <li><a href="#">Rau</a></li>
+                                    <li><a href="#">Bholaram</a></li>
+                                    <li><a href="#">Mhow</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -120,13 +120,13 @@ class Footer extends Component {
                                         <span className="bg-warning p-2 rounded mr-3">
                                             <FontAwesomeIcon icon="phone" className="text-white" />
                                         </span>
-                                        <span>+1 321 828 6662</span>
+                                        <span>+91 821 828 6662</span>
                                     </li>
                                     <li className="pb-3">
                                         <span className="bg-warning p-2 rounded mr-3">
                                             <FontAwesomeIcon icon="envelope" className="text-white" />
                                         </span>
-                                        <span>info@quickfood.com</span>
+                                        <span>info@flavorhub.com</span>
                                     </li>
                                 </ul>
                             </div>
@@ -137,7 +137,7 @@ class Footer extends Component {
                 {/* Footer Copyright Section */}
                 <div className="container">
                     <div className="col-12 footer-copyright">
-                        <p>© 2019 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Fahad Ahmed</span></p>
+                        <p>© 2023 Flovor Hub. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Rishi Patidar</span></p>
                     </div>
                 </div>
             </div>
